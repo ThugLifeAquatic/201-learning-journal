@@ -1,0 +1,3 @@
+# Learning Journal: Day-15
+
+Today we reviewed what we learned, filled some gaps in our understanding of practical web development, and found out who our final project week team members were.  I have a really solid team and I feel confident that our project week will go relatively smoothly.  I feel like our major struggle as a team is already behind us.  Everyone wanted to do their idea, so it took a bit to come up with a consensus about what project we would choose.  After a friendly discussion, we were able to agree on what to do.  I think all of us in the team are fairly independent, have a bit of a stubborn streak, but are open to reasonable discussion.  I'll keep this in mind moving forward.
